@@ -12,3 +12,6 @@ pgdata/
 
 # System
 .DS_Store
+
+# Env files
+.env
